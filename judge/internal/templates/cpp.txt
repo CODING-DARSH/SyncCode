@@ -1,0 +1,9 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+{{USER_CODE}}
+
+int main() {
+    Solution s;
+    cout << s.{{FUNCTION_NAME}}({{INPUT}});
+}

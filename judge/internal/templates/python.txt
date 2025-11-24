@@ -1,0 +1,5 @@
+{{USER_CODE}}
+
+s = Solution()
+result = s.{{FUNCTION_NAME}}({{INPUT}})
+print(result)
